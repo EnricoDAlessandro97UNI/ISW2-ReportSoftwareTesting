@@ -1,0 +1,4 @@
+org.apache.bookkeeper.bookie.storage.ldb.WriteCache
+org.apache.bookkeeper.net.NetworkTopologyImpl
+org.apache.syncope.core.provisioning.java.propagation.DefaultPropagationManager
+org.apache.syncope.core.provisioning.java.propagation.PriorityPropagationTaskExecutor
